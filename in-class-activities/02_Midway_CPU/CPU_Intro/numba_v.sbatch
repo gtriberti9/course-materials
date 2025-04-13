@@ -12,3 +12,5 @@ module load python/anaconda-2022.05
 
 # Compile Vectorized Numba function and compare performance to regular NumPy
 python ./distance_functions.py
+
+
